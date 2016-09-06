@@ -1,3 +1,4 @@
 # hello-world
 a repository
-manda25
+by manda25
+as a beginning
